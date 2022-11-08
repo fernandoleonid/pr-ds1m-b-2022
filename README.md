@@ -1,3 +1,5 @@
 # pr-ds1m-b-2022
 
-*bianca
+* bianca
+* Vinicius Nunes
+* Murillo Ribeiro Barbosa
