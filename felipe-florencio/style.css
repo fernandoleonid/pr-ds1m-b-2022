@@ -1,0 +1,13 @@
+body{
+    gap: 24px
+    ;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
+    font-family: 'Courier New', Courier, monospace;
+    color: #000200;
+}
