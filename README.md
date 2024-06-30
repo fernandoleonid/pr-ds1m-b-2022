@@ -1,5 +1,8 @@
 # pr-ds1m-b-2022
-*Felipe Florencio
+
+
+* Eduardo Ribeiro
+
 
 
 ## Contributors
@@ -12,5 +15,4 @@
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
 
