@@ -1,7 +1,7 @@
 # pr-ds1m-b-2022
 
+*Paula Blesa Staniukaitis
 
-* Eduardo Ribeiro
 
 
 
@@ -15,4 +15,5 @@
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
 
